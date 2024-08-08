@@ -1,4 +1,4 @@
-TENC CODING CAMPUS
+Ethical hacking in hisar
 "TEN Coding Campus" typically refers to a coding bootcamp or educational program focused on teaching coding skills. Here's a brief description:
 
 "TEN Coding Campus" is an intensive educational program designed to teach participants coding skills in a short period. It offers hands-on training,
